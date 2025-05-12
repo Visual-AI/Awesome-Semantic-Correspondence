@@ -1,7 +1,12 @@
 # Semantic Correspondence Methods Paper List
 
+## 🏠 About
+To provide a structured understanding of semantic correspondence methods, we present a taxonomy categorizing approaches into handcrafted descriptors, architectural improvements, and training strategy improvements. 
+This taxonomy traces the evolution from handcrafted methods to advanced deep learning solutions, providing a clear overview of how different approaches enhance feature quality, matching performance, and training strategies.
+![alt text](taxonomy.png)
 
-## Contents
+
+## 📚 Contents
 - [Handcrafted Descriptors](#handcrafted-descriptors)
 - [Architectural Improvement](#architectural-improvement)
   - [Feature Enhancement](#feature-enhancement)
@@ -23,7 +28,7 @@
 ## Handcrafted Descriptors
 - A maximum entropy framework for part-based texture and object recognition, ICCV 2005. [Paper](https://ieeexplore.ieee.org/document/1541339)
   
-    S. Lazebnik, C. Schmid, J. Ponce
+    Svetlana Lazebnik, Cordelia Schmid, Jean Ponce
 
 - Flexible Object Models for Category-Level 3D Object Recognition, CVPR 2007. [Paper](https://ieeexplore.ieee.org/document/4270174/)
 
@@ -52,28 +57,6 @@
 - Proposal flow: Semantic correspondences from object proposals, TPAMI 2018. [Paper](https://arxiv.org/abs/1703.07144)
 
     Bumsub Ham, Minsu Cho, Cordelia Schmid, Jean Ponce
-
-
-### Other Improvements
-- Deep ViT Features as Dense Visual Descriptors, ECCVW 2022. [paper](https://arxiv.org/abs/2112.05814)
-
-    Shir Amir, Yossi Gandelsman, Shai Bagon, Tali Dekel
-
-- GAN-Supervised Dense Visual Alignment, CVPR 2022. [paper](https://arxiv.org/abs/2112.05143)
-
-    William Peebles, Jun-Yan Zhu, Richard Zhang, Antonio Torralba, Alexei A. Efros, Eli Shechtman
-
-- CoordGAN: Self-Supervised Dense Correspondences Emerge from GANs. CVPR 2022. [paper](https://arxiv.org/abs/2203.16521)
-
-    Jiteng Mu, Shalini De Mello, Zhiding Yu, Nuno Vasconcelos, Xiaolong Wang, Jan Kautz, Sifei Liu
-
-- Space-Time Correspondence as a Contrastive Random Walk, NeurIPS 2021. [paper](https://arxiv.org/abs/2006.14613)
-
-    Allan Jabri, Andrew Owens, Alexei A. Efros
-
-- Deep Matching Prior: Test-Time Optimization for Dense Correspondence, ICCV 2021. [paper](https://arxiv.org/abs/2106.03090)
-
-    Sunghwan Hong, Seungryong Kim
 
 
 ## Architectural Improvement
@@ -255,6 +238,30 @@ Early CNN methods
 
     Sangryul Jeon, Seungryong Kim, Dongbo Min, Kwanghoon Sohn
 
+### Other Improvements
+- Deep ViT Features as Dense Visual Descriptors, ECCVW 2022. [Paper](https://arxiv.org/abs/2112.05814)
+
+    Shir Amir, Yossi Gandelsman, Shai Bagon, Tali Dekel
+
+- GAN-Supervised Dense Visual Alignment, CVPR 2022. [Paper](https://arxiv.org/abs/2112.05143)
+
+    William Peebles, Jun-Yan Zhu, Richard Zhang, Antonio Torralba, Alexei A. Efros, Eli Shechtman
+
+- CoordGAN: Self-Supervised Dense Correspondences Emerge from GANs. CVPR 2022. [Paper](https://arxiv.org/abs/2203.16521)
+
+    Jiteng Mu, Shalini De Mello, Zhiding Yu, Nuno Vasconcelos, Xiaolong Wang, Jan Kautz, Sifei Liu
+
+- Space-Time Correspondence as a Contrastive Random Walk, NeurIPS 2021. [Paper](https://arxiv.org/abs/2006.14613)
+
+    Allan Jabri, Andrew Owens, Alexei A. Efros
+
+- Deep Matching Prior: Test-Time Optimization for Dense Correspondence, ICCV 2021. [Paper](https://arxiv.org/abs/2106.03090)
+
+    Sunghwan Hong, Seungryong Kim
+
+- Zero-Shot Image Feature Consensus with Deep Functional Maps, ECCV 2024. [Paper](https://arxiv.org/abs/2403.12038)
+
+    Xinle Cheng, Congyue Deng, Adam Harley, Yixin Zhu, Leonidas Guibas
 
 ## Training Strategy Improvement
 
@@ -376,16 +383,16 @@ Early CNN methods
     Seungryong Kim, Dongbo Min, Stephen Lin, Kwanghoon Sohn
 
 
-- Semantic Correspondence as an Optimal Transport Problem, cvpr 2020. [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Semantic_Correspondence_as_an_Optimal_Transport_Problem_CVPR_2020_paper.pdf)
+- Semantic Correspondence as an Optimal Transport Problem, CVPR 2020. [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Semantic_Correspondence_as_an_Optimal_Transport_Problem_CVPR_2020_paper.pdf)
 
     Yanbin Liu, Linchao Zhu, Makoto Yamada, Yi Yang
 
 
-- Dense Contrastive Learning for Self-Supervised Visual Pre-Training, CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Dense_Contrastive_Learning_for_Self-Supervised_Visual_Pre-Training_CVPR_2021_paper.pdf)
+- Dense Contrastive Learning for Self-Supervised Visual Pre-Training, CVPR 2021. [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Dense_Contrastive_Learning_for_Self-Supervised_Visual_Pre-Training_CVPR_2021_paper.pdf)
 
    Xinlong Wang, Rufeng Zhang, Chunhua Shen, Tao Kong, Lei Li
 
-- Unsupervised Learning of Dense Visual Representations, NeurIPS 2020. [paper](https://arxiv.org/abs/2011.05499)
+- Unsupervised Learning of Dense Visual Representations, NeurIPS 2020. [Paper](https://arxiv.org/abs/2011.05499)
 
     Pedro O. O. Pinheiro, Amjad Almahairi, Ryan Benmalek, Florian Golemo, Aaron C. Courville
 
