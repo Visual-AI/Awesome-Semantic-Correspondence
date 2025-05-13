@@ -5,6 +5,7 @@ To provide a structured understanding of semantic correspondence methods, we pre
 This taxonomy traces the evolution from handcrafted methods to advanced deep learning solutions, providing a clear overview of how different approaches enhance feature quality, matching performance, and training strategies.
 ![alt text](taxonomy.png)
 
+For an easy list of Papers by Year, see [Papers by Year](papers_by_year.md).
 
 ## 📚 Contents
 - [Handcrafted Descriptors](#handcrafted-descriptors)
