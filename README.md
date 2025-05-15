@@ -258,7 +258,7 @@ Thank you!
   [[Code]](https://github.com/SunghwanHong/Cost-Aggregation-transformers)
 
 - *Multi-scale Matching Networks for Semantic Correspondence*  
-  Dongyang Zhao, Ziyang Song, Zhenghao Ji, Gangming Zhao, Weifeng Ge, Yizhou Yu
+  Dongyang Zhao, Ziyang Song, Zhenghao Ji, Gangming Zhao, Weifeng Ge, Yizhou Yu  
   **ICCV 2021**. 
   [[Paper]](https://arxiv.org/abs/2108.00211)
   [[Code]](https://github.com/wintersun661/MMNet)
@@ -486,7 +486,7 @@ Thank you!
 - *FlowWeb: Joint image set alignment by weaving consistent, pixel-wise correspondences*   
   Tinghui Zhou, Yong Jae Lee, Stella X. Yu, Alexei A. Efros  
   **CVPR 2015**. 
-  [[Paper]](https://ieeexplore.ieee.org/document/7298723)  
+  [[Paper]](https://ieeexplore.ieee.org/document/7298723)
   [[Code]](https://github.com/tinghuiz/flowweb)
 
 - *DAISY Filter Flow: A Generalized Discrete Approach to Dense Correspondences*  
