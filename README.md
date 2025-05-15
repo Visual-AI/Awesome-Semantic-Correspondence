@@ -1,5 +1,11 @@
 # Semantic Correspondence Paper List
 
+## Introduction
+Establishing semantic correspondence is a challenging task in computer vision, aiming to match keypoints with the same semantic information across different images. 
+We present a non-exhaustive list of papers focused on semantic correspondence. 
+We welcome contributions to enhance this listing—please feel free to submit pull requests with papers in this domain. 
+Thank you!
+
 ## 📚 Contents
 - [2025](#2025)
 - [2024](#2024)
