@@ -20,6 +20,13 @@ Thank you!
 
 
 ## 2025
+- *CleanDIFT: Diffusion Features without Noise*
+  Nick Stracke, Stefan Andreas Baumann, Kolja Bauer, Frank Fundel, Björn Ommer
+  **CVPR 2025 Oral**.
+  [[Paper]](https://arxiv.org/abs/2412.03439)
+  [[Project Page]](https://compvis.github.io/cleandift/)
+  [[Code]](https://github.com/CompVis/cleandift)
+
 - *Distillation of Diffusion Features for Semantic Correspondence*   
   Frank Fundel, Johannes Schusterbauer, Vincent Tao Hu, Björn Ommer  
   **WACV 2025**. 
