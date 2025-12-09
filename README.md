@@ -4,7 +4,7 @@
 Establishing semantic correspondence is a challenging task in computer vision, aiming to match keypoints with the same semantic information across different images. 
 We present a non-exhaustive list of papers focused on semantic correspondence. 
 We welcome contributions to enhance this listing—please feel free to submit pull requests with papers in this domain. 
-Finally, please check out our TPAMI 2025 paper ["Semantic Correspondence: Unified Benchmarking and a Strong Baseline"](https://github.com/Visual-AI/Semantic-Correspondence) for a unified evaluation protocol and an effective method.
+Finally, please check out our TPAMI 2025 paper ["Semantic Correspondence: Unified Benchmarking and a Strong Baseline"](https://github.com/Visual-AI/Semantic-Correspondence) for a unified evaluation and a strong baseline.
 Thank you!
 
 ## 📚 Contents
