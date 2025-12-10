@@ -4,11 +4,10 @@
 Establishing semantic correspondence is a challenging task in computer vision, aiming to match keypoints with the same semantic information across different images. 
 We present a non-exhaustive list of papers focused on semantic correspondence. 
 We welcome contributions to enhance this listing—please feel free to submit pull requests with papers in this domain. 
-Finally, please check out our TPAMI 2026 paper ["Semantic Correspondence: Unified Benchmarking and a Strong Baseline"](https://github.com/Visual-AI/Semantic-Correspondence) for a unified evaluation and a strong baseline.
+Finally, please check out our TPAMI 2025 paper ["Semantic Correspondence: Unified Benchmarking and a Strong Baseline"](https://github.com/Visual-AI/Semantic-Correspondence) for a unified evaluation and a strong baseline.
 Thank you!
 
 ## 📚 Contents
-- [2026](#2026)
 - [2025](#2025)
 - [2024](#2024)
 - [2023](#2023)
@@ -20,15 +19,15 @@ Thank you!
 - [2017](#2017)
 - [--2016](#--2016)
 
-## 2026
+
+## 2025
 - *Semantic Correspondence: Unified Benchmarking and a Strong Baseline*  
   Kaiyan Zhang, Xinghui Li, Jingyi Lu, Kai Han  
-  **TPAMI 2026**. 
+  **TPAMI 2025**. 
   [[Paper]](https://arxiv.org/abs/2505.18060) 
   [[Project Page]](https://visual-ai.github.io/semantic-correspondence/) 
   [[Code]](https://github.com/Visual-AI/Semantic-Correspondence)
-  
-## 2025
+
 - *Jamais Vu: Exposing the Generalization Gap in Supervised Semantic Correspondence*  
   Octave Mariotti, Zhipeng Du, Yash Bhalgat, Oisin Mac Aodha, Hakan Bilen  
   **NeurIPS 2025**. 
