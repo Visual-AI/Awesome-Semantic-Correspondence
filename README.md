@@ -21,18 +21,26 @@ Thank you!
 - [--2016](#--2016)
 
 ## 2026
+
+- *Geometry Matters: 3D Foundation Priors for Learning Semantic Correspondence*  
+  Artur Jesslen, Olaf Dünkel, Adam Kortylewski  
+  **arxiv preprint**.
+  [[Paper]](https://arxiv.org/abs/2605.30093)
+  [[Code]](https://github.com/GenIntel/3D-SC)
+
+- *MARCO: Navigating the Unseen Space of Semantic Correspondence*  
+  Claudia Cuttano, Gabriele Trivigno, Carlo Masone, Stefan Roth  
+  **CVPR 2026 Oral**.
+  [[Paper]](https://arxiv.org/pdf/2604.18267)
+  [[Project Page]](https://visinf.github.io/MARCO/)
+  [[Code]](https://github.com/visinf/MARCO)
+
 - *Shape-of-You: Fused Gromov-Wasserstein Optimal Transport for
 Semantic Correspondence in-the-Wild*  
   Jiin Im, Sisung Liu, Je Hyeong Hong  
   **CVPR 2026**.
   [[Paper]](https://arxiv.org/pdf/2603.11618)
   [[Code]](https://github.com/SpatialAILab/shapeofyou)
-  
-- *SimpleMatch: A Simple and Strong Baseline for Semantic Correspondence*  
-  Hailong Jin, Huiying Li  
-  **arxiv preprint 2026**.
-  [[Paper]](https://arxiv.org/pdf/2601.12357)
-  [[Code]](https://github.com/hailong23-jin/SimpleMatch)
 
 ## 2025
 - *Gromov Wasserstein Optimal Transport for Semantic Correspondences*  
