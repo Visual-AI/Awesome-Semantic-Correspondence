@@ -22,6 +22,39 @@ Thank you!
 
 ## 2026
 
+- *SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models*  
+  Olaf Dünkel, Basavaraj Sunagad, Haoran Wang, David T. Hoffmann, Christian Theobalt, Adam Kortylewski  
+  **ECCV 2026**.
+  [[Paper]](https://arxiv.org/abs/2605.31597)
+  [[Project Page]](https://genintel.github.io/SOCO/)
+
+- *Towards Geometry-Grounded Dense Semantic Matching with VGGT Priors*  
+  Songlin Yang, Tianyi Wei, Yushi Lan, Zeqi Xiao, Anyi Rao, Xingang Pan  
+  **ECCV 2026**.
+  [[Paper]](https://arxiv.org/abs/2509.21263)
+  [[Code]](https://github.com/Songlin1998/VGGT-SM)
+
+- *SimpleMatch: A Simple and Strong Baseline for Semantic Correspondence*  
+  Hailong Jin, Huiying Li  
+  **arXiv preprint 2026**.
+  [[Paper]](https://arxiv.org/abs/2601.12357)
+  [[Code]](https://github.com/hailong23-jin/SimpleMatch)
+
+- *SEMAGIC: Learning Semantically Consistent Deformable 3D Representations from In-the-Wild Images*  
+  Sky Cen, Wufei Ma, Guofeng Zhang, Alan Yuille, Adam Kortylewski  
+  **arXiv preprint 2026**.
+  [[Paper]](https://arxiv.org/abs/2605.27938)
+
+- *KPLNet: Keypoint Prototype Learning for Zero Image Semantic Correspondence*  
+  Hailong Jin, Huiying Li  
+  **Pattern Recognition 2026**.
+  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320325013652)
+
+- *Dual Consistency Matching for Semi-Supervised Semantic Correspondence*  
+  Hailong Jin, Huiying Li  
+  **IJCV 2026**.
+  [[Paper]](https://doi.org/10.1007/s11263-025-02652-8)
+
 - *Geometry Matters: 3D Foundation Priors for Learning Semantic Correspondence*  
   Artur Jesslen, Olaf Dünkel, Adam Kortylewski  
   **arxiv preprint**.
@@ -43,6 +76,32 @@ Semantic Correspondence in-the-Wild*
   [[Code]](https://github.com/SpatialAILab/shapeofyou)
 
 ## 2025
+
+- *MATCHA: Towards Matching Anything*  
+  Fei Xue, Sven Elflein, Laura Leal-Taixé, Qunjie Zhou  
+  **CVPR 2025**.
+  [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Xue_MATCHA_Towards_Matching_Anything_CVPR_2025_paper.html)
+  [[Code]](https://github.com/feixue94/matcha)
+
+- *GECO: Geometrically Consistent Embedding with Lightspeed Inference*  
+  Regine Hartwig, Dominik Muhle, Riccardo Marin, Daniel Cremers  
+  **ICCV 2025**.
+  [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Hartwig_GECO_Geometrically_Consistent_Embedding_with_Lightspeed_Inference_ICCV_2025_paper.html)
+  [[arXiv]](https://arxiv.org/abs/2508.00746)
+  [[Project Page]](https://reginehartwig.github.io/publications/geco/)
+
+- *Fuse2Match: Training-Free Fusion of Flow, Diffusion, and Contrastive Models for Zero-Shot Semantic Matching*  
+  Jing Zuo, Jiaqi Wang, Yonggang Qi, Yi-Zhe Song  
+  **NeurIPS 2025**.
+  [[Paper]](https://papers.nips.cc/paper_files/paper/2025/hash/159511050630689045bf5593e74b13cc-Abstract-Conference.html)
+  [[Code]](https://github.com/panda7777777/fuse2match)
+
+- *Tex2Sem: Learning From Textures to Semantics for Robust Semantic Correspondence*  
+  Zenghui Wang, Songlin Du, Yaping Yan, Guobao Xiao, Xiaobo Lu  
+  **IEEE TCSVT 2025**.
+  [[Paper]](https://doi.org/10.1109/TCSVT.2025.3576772)
+  [[Code]](https://github.com/wzhlearning/Tex2Sem)
+
 - *Gromov Wasserstein Optimal Transport for Semantic Correspondences*  
   Francis Snelgar, Stephen Gould, Ming Xu, Liang Zheng, Akshay Asthana  
   **BMVC 2025**.
